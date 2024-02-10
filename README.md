@@ -16,7 +16,7 @@ Atualmente, estou trabalhando como Analista de Suporte e Sistemas Full-Stack na 
 
 - Tenho experiência de 3 anos em suporte de TI, o que me permite ser bastante versátil quando necessário.
 - Sou um grande apaixonado por animes.
-- Atualmente, trabalho com as seguintes tecnologias:
+- Atualmente, trabalho com as seguintes linguagens e tecnologias:
 <div style="display: inline_block">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
